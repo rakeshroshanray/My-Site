@@ -24,9 +24,10 @@ h3{
 }
 p{
     line-height: 1.5;
+    font-size: x-large;
 }
 hr{
-    border: dotted #eaf6f6 ;
+    border: dotted #D0F5BE ;
     border-bottom: 0px;
     width: 4%;
     margin: 100px auto;
@@ -44,21 +45,25 @@ a:hover{
 
 
 .top{
-    background-color: rgba(176, 224, 248, 0.443);
+    background-color: #98EECC;
     padding-top: 100px;
     position: relative;
     
 }
 .middle-container {
-   margin: 100px 0px;
+    padding: 80px;
+    background-color: #FBFFDC;
+  
+    
 }
 .bottom-container { 
-    background-color:#1FAB89 ;
+    background-color:#A4907C ;
     padding: 50px 0 20px;
 }
 .pro{
    position: relative;
    bottom: 100px;
+   font-size: 50px;
 }
 .intro{
     width: 45%;
